@@ -5,7 +5,7 @@ h3{
     background-color: green;
 }
 canvas{
-    animation-name: example;
+    animation-name:example;
     animation-duration: 4s;
     animation-iteration-count: infinite;
 }
